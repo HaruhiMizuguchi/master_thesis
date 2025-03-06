@@ -1,0 +1,15 @@
+# 環境情報
+
+## Python バージョン
+Python 3.6.8
+
+## CUDA バージョン
+CUDA 10.2
+
+## パッケージ一覧
+requirements.txt ファイルを参照してください。
+
+## システム要件
+- CUDA 対応 GPU
+- CUDA Toolkit 10.2
+- cuDNN (CUDA 10.2 対応バージョン) 
